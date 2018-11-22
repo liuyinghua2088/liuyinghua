@@ -1,0 +1,11 @@
+#!/usr/bin/python
+#-*- coding: UTF-8 -*-
+#文件名:test.py
+if True:
+    print "Answer";
+    print "True";
+else:
+    print "Answer";
+    print "False";
+
+raw_input("按下 enter 键退出，其他任意键显示...\n");
